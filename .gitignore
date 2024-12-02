@@ -1,0 +1,49 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity metadata files
+*.unitypackage
+*.prefab.meta
+*.asset.meta
+
+# Crash Reports
+sysinfo.txt
+
+# ScriptableObject temporary files
+*.bak
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Exclude the build artifacts folder
+Builds/
+
+# Exclude InputSystem auto-generated files
+Assets/InputSystem_Actions.inputactions.meta
+Assets/InputSystem_Actions.inputactions
+
+# Exclude User Settings
+UserSettings/
